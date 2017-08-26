@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * Created by jt on 5/18/17.
  */
 @Controller
-public class BookController {
+public class  BookController {
 
     private BookRepository bookRepository;
 
